@@ -257,7 +257,7 @@ h1 {
   border-radius: 16px;
   border: 1px solid var(--borda);
   box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-  padding: 25px;
+  padding: 50px;
   position: relative;
 }
 
